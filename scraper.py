@@ -6,6 +6,8 @@ from statistics import mean
 
 GOOGLE_SCRIPT_URL = os.environ["GOOGLE_SCRIPT_URL"]
 
+print("VERSION 2 TEST")
+
 URLS = [
     {"floorplan": "A1", "url": "https://livethelangston.securecafe.com/onlineleasing/langston0/availableunits.aspx?myOlePropertyId=1888891&floorPlans=5473866"},
     {"floorplan": "A2", "url": "https://livethelangston.securecafe.com/onlineleasing/langston0/availableunits.aspx?myOlePropertyId=1888891&floorPlans=5473870"},
