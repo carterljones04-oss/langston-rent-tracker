@@ -9,7 +9,43 @@ GOOGLE_SCRIPT_URL = os.environ["GOOGLE_SCRIPT_URL"]
 URLS = [
     {
         "floorplan": "A1",
-        "url": "https://livethelangston.securecafe.com/onlineleasing/langston0/availableunits.aspx?myOlePropertyId=1888891&MoveInDate=&t=0.18951492733233122&floorPlans=5473866"
+        "url": "https://livethelangston.securecafe.com/onlineleasing/langston0/availableunits.aspx?myOlePropertyId=1888891&floorPlans=5473866"
+    },
+    {
+        "floorplan": "A2",
+        "url": "https://livethelangston.securecafe.com/onlineleasing/langston0/availableunits.aspx?myOlePropertyId=1888891&floorPlans=5473870"
+    },
+    {
+        "floorplan": "A3",
+        "url": "https://livethelangston.securecafe.com/onlineleasing/langston0/availableunits.aspx?myOlePropertyId=1888891&floorPlans=5475000"
+    },
+    {
+        "floorplan": "A4",
+        "url": "https://livethelangston.securecafe.com/onlineleasing/langston0/availableunits.aspx?myOlePropertyId=1888891&floorPlans=5473890"
+    },
+    {
+        "floorplan": "A5.a",
+        "url": "https://livethelangston.securecafe.com/onlineleasing/langston0/availableunits.aspx?myOlePropertyId=1888891&floorPlans=5473891"
+    },
+    {
+        "floorplan": "B1",
+        "url": "https://livethelangston.securecafe.com/onlineleasing/langston0/availableunits.aspx?myOlePropertyId=1888891&floorPlans=5473932"
+    },
+    {
+        "floorplan": "C1",
+        "url": "https://livethelangston.securecafe.com/onlineleasing/langston0/availableunits.aspx?myOlePropertyId=1888891&floorPlans=5474983"
+    },
+    {
+        "floorplan": "C3",
+        "url": "https://livethelangston.securecafe.com/onlineleasing/langston0/availableunits.aspx?myOlePropertyId=1888891&floorPlans=5474987"
+    },
+    {
+        "floorplan": "C5",
+        "url": "https://livethelangston.securecafe.com/onlineleasing/langston0/availableunits.aspx?myOlePropertyId=1888891&floorPlans=5474989"
+    },
+    {
+        "floorplan": "C6",
+        "url": "https://livethelangston.securecafe.com/onlineleasing/langston0/availableunits.aspx?myOlePropertyId=1888891&floorPlans=5474990"
     }
 ]
 
